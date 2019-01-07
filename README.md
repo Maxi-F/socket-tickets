@@ -1,9 +1,9 @@
-# Notas:
+# Ticket App
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+A simple app to work with queues and socket.io.
 
-Recuerden que deben de reconstruir los módulos de node con el comando
 
+remember to execute:
 ```
 npm install
 ```
